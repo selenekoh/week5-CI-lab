@@ -8,4 +8,3 @@ app = flask.Flask(__name__)
 def index():
     return "Welcome!!! ", time.localtime
 
-#test
